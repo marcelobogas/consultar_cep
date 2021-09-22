@@ -1,0 +1,8 @@
+{
+    "name": "marcelo/buscar_cep",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
